@@ -44,14 +44,4 @@ This portfolio serves as my centralized hub on the web. It is designed with a fo
 
 ---
 
-## 💻 Getting Started (Local Setup)
-
-If you would like to run this project locally on your machine for code review or development, follow the steps below:
-
-### 1. Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) and Git installed on your local machine.
-
-### 2. Clone the Repository
-```bash
-git clone [https://github.com/](https://github.com/)[your-username]/[your-repo-name].git
-cd [your-repo-name]
+ 
