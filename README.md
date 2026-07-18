@@ -6,14 +6,9 @@
 
 > A modern, responsive, and interactive personal portfolio website built to showcase my software engineering projects, technical skills, and professional journey.
 
----
+--
 
-## 📸 Preview
-
-<!-- Replace the link below with an actual screenshot or GIF of your deployed portfolio -->
-![Portfolio Preview](https://via.placeholder.com/1200x600?text=Insert+Your+Portfolio+Screenshot+Here)
-
-**Live Demo:** [https://your-portfolio-link.com](https://your-portfolio-link.com)
+**Live Demo:** https://priyanshdhakrey.vercel.app
 
 ---
 
