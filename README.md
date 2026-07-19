@@ -35,8 +35,6 @@ This portfolio serves as my centralized hub on the web. It is designed with a fo
 | **Database & Cloud** | [Supabase / MongoDB / PostgreSQL], Cloud Infrastructure |
 | **Deployment & DevOps** | Git, GitHub, [Vercel / Netlify / GitHub Pages] |
 
-*(Note: Adjust the table above to match the exact tools and frameworks you used in your build.)*
-
----
+ 
 
  
